@@ -1,5 +1,4 @@
 # inf150
-t
 
 Sistemas de Numeração e Codificação: Binário, Complemento de 2, Hexadecimal, ASCII, Aritmética Binária. Codificação Esparsa e Compacta
 
